@@ -1,0 +1,21 @@
+// Fonts
+@import url('https://fonts.googleapis.com/css2?family=Exo+2:wght@400;500&display=swap');
+
+// Variables
+@import "variables";
+
+// Bootstrap
+@import 'mdb-ui-kit/css/mdb.min.css';
+
+// Font Awesome
+@import "@fortawesome/fontawesome-free/scss/fontawesome";
+@import "@fortawesome/fontawesome-free/scss/solid";
+
+html,
+body,
+#app {
+    font-family: "Exo 2", sans-serif;
+    font-size: 0.95rem;
+    font-weight: 400;
+}
+
